@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 var fs = require('fs');
-var str = "";
 var filepath = process.argv[2];
 
 if (!filepath) {
